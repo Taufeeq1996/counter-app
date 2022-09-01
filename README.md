@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# Heroku Link: https://taufeeq-counter-app.herokuapp.com/ 
+### Heroku Link: https://taufeeq-counter-app.herokuapp.com/ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
